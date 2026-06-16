@@ -1,10 +1,11 @@
-# 💎 AI Personal Finance Advisor (AI-PFA)
+#  AI Personal Finance Advisor (AI-PFA)
 
 > **FAST-NUCES Karachi · April 2026**  
 > Kashmala Saghar (23K-3034) · Manahil Ayaz (23K-3018) · Syeda Tayyiba Fatima (23k-0853) . FSR-AI-PFA-2026-001
 
-**Summary**
-AI Personal Finance Advisor (AI-PFA) is a machine learning-powered personal finance management system that analyzes transaction data, categorizes expenses, detects overspending patterns, predicts future spending, and provides personalized financial recommendations. The platform also features an AI chatbot that helps users gain actionable insights and make smarter financial decisions.
+# **Summary**
+
+##AI Personal Finance Advisor (AI-PFA) is a machine learning-powered personal finance management system that analyzes transaction data, categorizes expenses, detects overspending patterns, predicts future spending, and provides personalized financial recommendations. The platform also features an AI chatbot that helps users gain actionable insights and make smarter financial decisions.
 
 
 AI-PFA analyses personal transaction data to deliver:
