@@ -5,7 +5,7 @@
 
 # **Summary**
 
-##AI Personal Finance Advisor (AI-PFA) is a machine learning-powered personal finance management system that analyzes transaction data, categorizes expenses, detects overspending patterns, predicts future spending, and provides personalized financial recommendations. The platform also features an AI chatbot that helps users gain actionable insights and make smarter financial decisions.
+AI Personal Finance Advisor (AI-PFA) is a machine learning-powered personal finance management system that analyzes transaction data, categorizes expenses, detects overspending patterns, predicts future spending, and provides personalized financial recommendations. The platform also features an AI chatbot that helps users gain actionable insights and make smarter financial decisions.
 
 
 AI-PFA analyses personal transaction data to deliver:
