@@ -6,7 +6,6 @@
 **Summary**
 AI Personal Finance Advisor (AI-PFA) is a machine learning-powered personal finance management system that analyzes transaction data, categorizes expenses, detects overspending patterns, predicts future spending, and provides personalized financial recommendations. The platform also features an AI chatbot that helps users gain actionable insights and make smarter financial decisions.
 
-## 🎯 What It Does
 
 AI-PFA analyses personal transaction data to deliver:
 
@@ -21,7 +20,7 @@ AI-PFA analyses personal transaction data to deliver:
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 AI-PFA/
@@ -48,7 +47,7 @@ AI-PFA/
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Install dependencies
 ```bash
@@ -76,7 +75,7 @@ Open **http://localhost:8501**
 
 ---
 
-## 🤖 Groq Chatbot — Free Setup
+##  Groq Chatbot — Free Setup
 
 | Step | Action |
 |---|---|
@@ -89,7 +88,7 @@ Open **http://localhost:8501**
 
 ---
 
-## 🚨 Alert System — 6 Types
+##  Alert System — 6 Types
 
 | Type | What It Detects | Example |
 |---|---|---|
@@ -104,7 +103,7 @@ Each alert includes a **specific, actionable step** — not just a number.
 
 ---
 
-## 🤖 ML Model Performance
+## ML Model Performance
 
 | Model | R² Score | MAE | RMSE |
 |---|---|---|---|
@@ -116,7 +115,7 @@ Each alert includes a **specific, actionable step** — not just a number.
 
 ---
 
-## 🏦 Kaggle Dataset Integration
+## Kaggle Dataset Integration
 
 The Kaggle Personal Finance Tracker dataset (monthly aggregates, USD, no descriptions) is **incompatible** with transaction-level analysis. Instead, we pulled all its financial health columns into our generator:
 
@@ -126,7 +125,7 @@ All distributions calibrated from real Kaggle data. Stress level affects categor
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Version | Purpose |
 |---|---|---|
@@ -140,7 +139,7 @@ All distributions calibrated from real Kaggle data. Stress level affects categor
 
 ---
 
-## 🔭 Future Work
+##  Future Work
 
 | Area | Current | Next Step |
 |---|---|---|
@@ -151,7 +150,7 @@ All distributions calibrated from real Kaggle data. Stress level affects categor
 
 ---
 
-## 👥 Team
+##  Team
 
 | Name | Role | ID |
 |---|---|---|
